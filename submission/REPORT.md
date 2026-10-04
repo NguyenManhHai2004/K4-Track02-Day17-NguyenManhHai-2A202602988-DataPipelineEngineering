@@ -4,8 +4,8 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 Định dạng tham chiếu và phạm vi tính trang: [SUBMISSION.md](../docs/SUBMISSION.md).
 
 **Họ tên / MSSV:** Nguyễn Mạnh Hải / 2A202602988
-**Repo:** <điền URL repo GitHub public>
-**Commit bài nộp:** <điền hash sau khi commit>
+**Repo:** https://github.com/NguyenManhHai2004/K4-Track02-Day17-NguyenManhHai-2A202602988-DataPipelineEngineering
+**Commit bài nộp:** bbc847b
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Claude Code (Sonnet 5.5): hỗ trợ đọc code, chẩn đoán ba lỗi, sửa `pipeline/` và soạn REPORT. Tôi đã review diff và chạy lại verify/test/rerun/dbt để kiểm chứng. Không sửa `scripts/verify.py`, `tests/`, `data/` hay cách tính checksum.
 **Nguồn tham khảo khác (nếu có):** Slide Ngày 17, `docs/`, tài liệu Debezium về envelope `before`/`after`/`op`.
 
